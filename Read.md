@@ -41,7 +41,10 @@ Quiz_Master/
 2. Navigate to the project directory: `cd Quiz_Master`
 3. Install the required packages: `pipenv install`
 4. Create a SQLite database: `sqlite3 db.sqlite3`
-5. Run the application: `pipenv run python main.py`
+5. Run the application: `pipenv run python cli.py` (for app to run in terminal)
+6. Run the application `pipenv run python tkinter_app.py` (for app to run in GUI)
+    
+
 
 
 ## Usage
