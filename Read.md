@@ -15,7 +15,6 @@ A GUI and CLI based quiz application built with Python
 ## Project Structure
 
 Quiz_Master/
-├── main.py
 ├── cli.py
 ├── models.py
 ├── database.py
